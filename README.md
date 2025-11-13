@@ -1,6 +1,5 @@
 # Active Directory Home Lab  
-Based on YouTube Guide: *How to Create Active Directory Domain Controller on Windows Server*  
-Link: https://www.youtube.com/watch?v=mWqYyl89QaY  
+
 
 ## Objective
 This project follows a structured walkthrough to build a fully functional Active Directory environment from scratch using Windows Server and Windows 10. The goal was to learn how identity, authentication, and domain services work in an enterprise network while practicing system administration tasks hands-on.
